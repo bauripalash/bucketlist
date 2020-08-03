@@ -5,6 +5,8 @@
 
 - [X] Build own Website.
 
+- [X] Build Own Esoteric Language
+
 - [ ] Publish own Research Paper to a well known journal.
 
 - [ ] Buy own Telescope and Look at Space through it.
