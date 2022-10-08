@@ -15,9 +15,9 @@
 
 - [ ] Rebuild the Rocket which I built when I was 4
 
-- [ ] Build own Programming Language
+- [x] Build own Programming Language
 
-- [ ] Build own Bengali Programming Language
+- [x] Build own Bengali Programming Language
 
 - [ ] Build a Intelligent Robot
 
