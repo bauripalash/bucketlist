@@ -15,11 +15,11 @@
 
 - [ ] Rebuild the Rocket which I built when I was 4
 
-- [x] Build own Programming Language
+- [x] Develop a Programming Language
 
-- [x] Build own Bengali Programming Language
+- [x] Develop a Bengali Programming Language
 
-- [ ] Build a Intelligent Robot
+- [ ] Build an Intelligent Robot
 
 - [ ] Read every Religious holy book of every religion
 
